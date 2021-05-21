@@ -1,15 +1,5 @@
 [![Header](./banner.png "Header")](https://joshboddy.com/)
 
-<!-- Actual text -->
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Language-JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Sport-Volleyball-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/br34th3r
-[2]: https://www.linkedin.com/in/joshua-boddy/
