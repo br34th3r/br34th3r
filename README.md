@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/br34th3r/br34th3r/banner.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/banner.png "Header")](https://joshboddy.com/)
